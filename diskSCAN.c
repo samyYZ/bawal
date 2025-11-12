@@ -26,3 +26,4 @@ int main() {
     }
     printf("Total Movement: %d\n",move);
 }
+
